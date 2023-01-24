@@ -17,6 +17,7 @@ def generate_password():
     
     password = "" .join(password)
     print(password)
+    
 
 option = input("Do you want to generate a password? (Yes/No): ")
 
