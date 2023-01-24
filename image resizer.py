@@ -12,3 +12,4 @@ def resize_image(sizel, size2) :
 size1 = int(input( ' Enter Width: '))
 size2 = int(input('Enter Length: '))
 resize_image(size1, size2)
+
