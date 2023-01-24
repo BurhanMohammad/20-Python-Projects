@@ -8,3 +8,4 @@ while True:
         break
     
     print(dictionary.meaning(word))
+ 
