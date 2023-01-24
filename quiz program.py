@@ -47,3 +47,4 @@ for key, value in quiz.items():
 
 print("You got " + str(score) + " out of 7 questions correctly")
 print("Your percentage is " + str(int(score/7 * 100)) + "%")
+
