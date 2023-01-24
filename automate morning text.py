@@ -19,3 +19,4 @@ schedule.every(10).seconds.do(send_message)
 while True:
     schedule.run_pending()
     time.sleep(1)
+ 
