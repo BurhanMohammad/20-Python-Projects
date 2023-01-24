@@ -31,7 +31,7 @@ while exit == False:
             user_points += 1
 
     elif user_input == "paper":
-        if computer_input == "rock":
+        if computer_input == "rock": 
             print("Your input is paper")
             print("computer input is rock")
             print("you win!")
