@@ -19,6 +19,7 @@ em[' subject'] = subject
 em.set_content(body)
 
 
+
 context = ssl.create_default_context()
 
 with smtplib.SMTP_SSL( 'smtp.gmail.com' , 465, context=context) as smtp:
