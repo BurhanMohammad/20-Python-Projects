@@ -1,6 +1,6 @@
 
 # JavaScript Projects
-Collection of the small projects built with Python. No frameworks or libraries.
+Collection of the small projects built with Python. No frameworks.
 
 ![HTML5](https://img.shields.io/badge/python-%23F7DF1E.svg?style=for-the-badge&logo=python&logoColor=)
 
